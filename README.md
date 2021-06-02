@@ -10,5 +10,5 @@ Após clonar o projeto, rode o comando npm install para instalar as dependência
 
 Rode `ng serve` para iniciar o projeto. Color a seguinte URL em seu navegador `http://localhost:4200/`. 
 
-Para o funcionamento completo é necessário ter o backend rodando. Pasta do projeto em
+Para o funcionamento completo é necessário ter o backend rodando. Pasta do projeto em https://github.com/allanfernandesh/backend-crud-angular.git
 
