@@ -1,27 +1,14 @@
-# Frontend
+# CRUD Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+CRUD feito em Angular com backend com json-server.
 
-## Development server
+é necessário possuir [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1  e o gerenciador de pacote do Node [NPM](https://nodejs.org/en/download/)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Inicializar
 
-## Code scaffolding
+Após clonar o projeto, rode o comando npm install para instalar as dependências.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Rode `ng serve` para iniciar o projeto. Color a seguinte URL em seu navegador `http://localhost:4200/`. 
 
-## Build
+Para o funcionamento completo é necessário ter o backend rodando. Pasta do projeto em
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
